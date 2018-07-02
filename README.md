@@ -1,5 +1,7 @@
 # Developer Survey Form
 
+![screenshot](/survey-lg.png)
+
 A simple HTML and CSS form made for FreeCodeCamp.
 
 ## Built With
